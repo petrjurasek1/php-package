@@ -1,0 +1,7 @@
+{
+    "name": "pertjurasek/php-package",
+    "description": "PHP package. For Packagist testing purposes only",
+    "require": {
+        "php": ">=7.4"
+    }
+}
